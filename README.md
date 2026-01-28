@@ -1,4 +1,5 @@
-📊 Data Analytics Portfolio: This repository documents my learning journey, assignments, and projects as I develop my skills as an entry-level data analyst.
+ This repository documents my learning journey, assignments, and projects as I develop my skills as an entry-level data analyst.
+
 👋 About Me
 I am a Public Health graduate building my skills in Data Analytics through the Cisco Networking Academy Data Analytics Essentials course. I am passionate about using data to:
 1. Understand public health problems
@@ -12,16 +13,14 @@ This portfolio aims to:
 3. Demonstrate my ability to analyze and communicate data insights
 4. Build a strong foundation for a career in data analytics
 
-📚 Current Course Coverage: Key topics covered so far:
+📚 Current Course Coverage: Modules completed so far:
+Module 1: Introduction to Data Analytics Projects
+Module 2: Getting Started with Data Gathering and Investigation
+Module 3: Preparing and Cleaning Data for Analysis
 
-✅ Value of Data Analytics
-✅ Types of Data Analysis: Descriptive, Diagnostic, Predictive, Prescriptive
-✅ Phases of the Data Analytics Process
-✅ Asking the Right Analytical Questions
-✅ Researching and Building a Data Analytics Portfolio
-
+Reflections on skills learned
 📝 Project (In Progress)
-1. Hygiene Practice and Sachet Water Consumption in Ghans
+1. Hygiene Practices and Sachet Water Consumption in Ghana
 
 Objective: To understand common hygiene practices used before drinking water in Ghana and to assess whether these practices may pose potential public health risks
 
@@ -37,8 +36,4 @@ More projects will be added as I progress through the course.
 5. Analytical Thinking
 6. Communication & Storytelling with Data
 
-/datasets        – Raw and cleaned datasets  
-/analysis        – Analysis files and notebooks  
-/visualizations  – Charts and dashboards  
-/notes           – Course notes and reflections  
    
