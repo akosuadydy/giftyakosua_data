@@ -30,6 +30,17 @@ Skills Developed
 -Translating real-world problems into analytical questions
 -Understanding how data supports evidence-based decisions
 
+Practical Activity Evidence
+
+As part of Module 1, I created and set up my GitHub account to begin building my data analytics portfolio.
+
+Evidence:
+- GitHub profile setup and repository creation  
+- Initial portfolio repository with README and folder structure  
+
+See `/module-1-introduction-to-data-analytics/evidence/` for screenshots.
+
+
 
 Reflection
 This module helped me understand that effective data analysis begins before touching any data.
