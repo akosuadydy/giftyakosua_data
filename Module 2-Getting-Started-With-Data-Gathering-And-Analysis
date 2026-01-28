@@ -1,0 +1,41 @@
+Module 2: Tools for Understanding Data
+
+Overview
+In Module 2, I explored key tools and techniques for working with data, including importing, cleaning, 
+exploring, and visualizing datasets. This module focused on understanding different types of data, 
+using analytical tools, and preparing data for analysis.
+
+Key Learning Objectives:
+1. Understand the characteristics of data and datasets
+2. Explore different types of data: structured, unstructured, static, and streaming
+3. Learn how to use tools like Microsoft Excel, SQL, and Tableau
+4. Get started with Kaggle to access public datasets
+
+Tools Covered
+-Microsoft Excel
+-Performing data cleaning and exploration
+-Using formulas, functions, sorting, filtering, and pivot tables
+-Creating charts and visualizations
+
+SQL
+-Accessing and querying relational databases
+-Creating tables and retrieving data
+-Aggregating and joining datasets
+
+Tableau
+-Preparing, analyzing, and exploring data
+-Creating dashboards and visualizations
+
+Kaggle
+-Accessing publicly available datasets
+-Downloading CSV files for analysis
+-Using the community to learn techniques and collaborate
+
+Key Concepts Learned
+-Observations, Variables, and Values: Defined variables, collected observations, and understood data points in datasets.
+-Data Sources: Learned the difference between internal/private data and publicly available/open data.
+-Selecting Relevant Data: Focused on data directly related to the problem or business question.
+-Static vs Streaming Data: Learned how data can be analyzed as stored or in real-time.
+-Structured vs Unstructured Data: Characteristics, formats (CSV, JSON, XML), and how to work with them.
+-Basic Excel concepts and features.
+
