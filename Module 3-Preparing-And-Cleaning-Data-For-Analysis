@@ -1,0 +1,39 @@
+Module 3: Data Preparation and Cleaning
+
+Overview
+In Module 3, I learned how to prepare and clean data to make it suitable for analysis. 
+This module emphasized the importance of accurate and reliable data, introduced common data issues, 
+and provided techniques for cleaning and organizing datasets using Excel.
+
+Key Learning Objectives:
+-Understand the importance of data cleaning
+-Identify and handle incomplete, incorrect, or irrelevant data
+-Learn techniques to prepare data for analysis
+-Practice cleaning CSV datasets in Excel
+-Explore basic data analysis on cleaned datasets
+
+Tools Covered
+Microsoft Excel
+-Importing CSV files into Excel
+-Expanding columns and adjusting rows to view data properly
+-Removing duplicates and blank rows
+-Handling errors such as zero or missing values
+-Using Find & Select, Go To Special, and keyboard shortcuts
+-Performing basic analysis after cleaning
+
+Key Concepts Learned
+
+Data Cleaning Steps: Load data into Excel, Adjust column widths and row heights, Remove duplicate rows
+Delete blank rows, identify and correct obvious errors (e.g., zero or invalid values), and verify data integrity before analysis
+
+Observations and Variables: Understanding what data points matter for your analysis
+Static vs Streaming Data: Differences in analyzing pre-stored versus real-time data
+Structured vs Unstructured Data: How to identify and work with each type of data
+CSV, JSON, and XML Files: Common formats for storing and sharing datasets
+
+Skills Developed
+-Importing and exploring datasets in Excel
+-Removing duplicates, blanks, and errors
+-Using Excel tools to clean and organize data efficiently
+-Preparing datasets for analysis and visualization
+-Applying critical thinking to assess data quality
