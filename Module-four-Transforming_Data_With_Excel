@@ -1,0 +1,56 @@
+Module 4: Transforming Data with Excel
+Module 4 focused on transforming raw data into a clean, structured, and analysis-ready format using Microsoft Excel. 
+This module built practical skills for organizing, formatting, and preparing data for deeper analysis and visualization.
+
+In this module, I learned how to:
+1. Prepare raw datasets for analysis
+2. Transform text and numerical data into usable formats
+3. Apply formulas and functions correctly
+4. Sort, filter, and organize large datasets
+5. Create basic data visualizations in Excel
+
+Key Skills & Concepts Learned
+1. Data Transformation
+2. Sorting data (single-level and multi-level)
+3. Filtering data to identify patterns, anomalies, and errors
+4. Converting datasets into Excel Tables for easier management
+5. Handling inconsistent values and correcting formatting issues
+
+1. Text Manipulation
+2. Splitting text into multiple columns using Text to Columns
+3. Converting text case using:
+LOWER()
+UPPER()
+PROPER()
+
+1. Cleaning and standardizing text fields for analysis
+2. Formulas & Functions
+3. Understanding the difference between formulas and functions
+4. Using arithmetic operators (+, -, *, /)
+5. Applying common functions such as:
+SUM()
+AVERAGE()
+COUNT()
+6. Using relative and absolute cell references
+7. Relative references (default behavior)
+8. Absolute references using $ (e.g. $A$1)
+
+Data Visualization
+1. Creating charts using the Insert Chart feature
+2. Selecting appropriate chart types (e.g., column charts)
+
+Customizing charts:
+1. Titles
+2. Axis labels
+3. Legends
+4. Styles and filters
+5. Using charts to communicate insights clearly
+
+ Tools Used
+Microsoft Excel
+
+Key Takeaways
+1. Data transformation is a critical step before analysis
+2. Proper formatting improves accuracy and usability
+3. Excel is a powerful tool for both data preparation and visualization
+4. Clean and well-structured data leads to better insights
