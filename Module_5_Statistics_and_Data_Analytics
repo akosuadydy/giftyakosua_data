@@ -1,0 +1,73 @@
+Module 5: Statistics and Data Visualization
+
+Overview
+Module 5 introduces statistical concepts used in data analysis and explores how data visualization supports analytical decision-making. This module strengthened my ability to summarize, interpret, and communicate data effectively.
+
+Key Concepts Learned
+1. Introduction to Statistics: Statistics is the science of learning from data.Used to measure relationships, control uncertainty, and communicate findings.
+Helps identify patterns and probabilities.
+
+2. Population vs Sample
+Population: Entire group of interest.
+Sample: Representative subset of the population.
+Samples allow analysts to make generalizations when studying the full population is impractical.
+
+3. Descriptive Statistics: Used to summarize and describe data. Examples: Mean (Average), Median, Mode, Range, Frequency, Percentages and Maximum & Minimum values
+
+
+NB: Descriptive statistics:
+1. Do NOT make predictions
+2. Do NOT compare groups statistically
+3. Only describe observed data
+
+4. Inferential Statistics: Used to make predictions or generalizations about a population. Based on sample data. Helps test hypotheses.
+Involves sampling techniques to reduce bias and error.
+
+5. Statistics in Big Data
+1. Descriptive statistics help assess data quality.
+2. Identify: Missing values, Corrupted data, Invalid records
+
+Inferential methods used in big data: Cluster Analysis, Association Analysis, Regression Analysis
+
+6. Data Visualization: Data visualization is the graphical representation of data using Charts, Graphs, Maps, and dashboards.
+Purpose: Identify trends and patterns, detect outliers, support faster decision-making, and communicate insights clearly
+
+A good visualization: Removes noise, highlights important insights, and tells a clear story.
+
+ Common Chart Types Learned
+1. Line Charts (Trends over time)
+2. Column Charts (Comparisons)
+3. Bar Charts (Category comparisons)
+4. Pie Charts (Proportions)
+5. Scatter Plots (Relationships & Outliers)
+
+7. Outliers & Anomalies
+Outlier: A value significantly different from others. May result from: Data entry errors, Corruption, True extreme values
+
+Tools to detect outliers: Scatter plots, Box plots
+
+Sorting & filtering: Investigating outliers is critical before analysis to ensure valid results.
+
+8. VLOOKUP in Excel: VLOOKUP is used to search for a value in one column. Return corresponding data from another column
+
+Key components: Lookup value, Table range, Column index number, Match type (TRUE = approximate, FALSE = exact).
+
+Also learned: 
+1. Using absolute references ($)
+2. Combining VLOOKUP with IF and ISNA
+3. Using VLOOKUP for data cleaning (finding duplicates)
+
+Skills Developed
+1. Applying descriptive statistics in Excel
+2. Understanding sampling and inference
+3. Detecting and investigating outliers
+4. Creating meaningful visualizations
+5. Using VLOOKUP for data analysis and cleaning
+6. Communicating statistical findings clearly
+
+Reflection
+
+Module 5 deepened my understanding of how statistics support data-driven decision-making. 
+I learned that cleaning and summarizing data correctly is essential before concluding.
+I also strengthened my ability to visualize data effectively and identify anomalies that may affect results.
+This module has improved my confidence in applying statistical thinking to real-world datasets, especially in public health and behavioral data analysis.
