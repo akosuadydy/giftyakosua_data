@@ -1,0 +1,87 @@
+Module 6: Databases and SQL Fundamentals
+Overview
+In Module 6, I learned the fundamentals of databases, including the differences between flat file databases and relational databases, 
+as well as how to use SQL to query and analyze data. This module introduced key concepts that form the foundation of data storage, management, and analysis.
+
+Key Concepts Learned
+1. Flat File Databases
+1.  Store data in a single table format (like spreadsheets or CSV files)
+2. Organized in rows (records) and columns (fields)
+3. Simple and easy to use for small datasets
+
+
+Limitations:
+  * Data redundancy (duplicate information)
+  * Data inconsistency
+  * Difficult to modify structure
+  * Inefficient for large or complex data
+
+2. Relational Databases
+
+1. Store data across multiple related tables
+2. Use relationships to connect data between tables
+3. Reduce redundancy and improve consistency
+4.  Use unique identifiers to link data efficiently
+
+Advantages:
+
+  * Better organization
+  * Improved accuracy
+  * Scalable for large datasets
+* Require database management systems (DBMS)
+
+
+3. Entity Relationship Diagrams (ERDs)
+1. Visual representation of database structure
+2. Show tables, columns, and relationships
+
+ Key components:
+
+  Primary Key: Unique identifier for each record
+  Foreign Key: Links one table to another
+Help design and understand relational databases
+
+ 4. Introduction to SQL (Structured Query Language)
+SQL is used to interact with relational databases.
+
+Main SQL operations learned:
+SELECT
+Used to retrieve data from a database
+
+ WHERE
+Used to filter data
+
+ ORDER BY
+Used to sort results
+
+LIMIT
+Used to limit the number of results
+
+5. Aggregate Functions
+Used to perform calculations on data
+
+COUNT()
+Counts rows
+
+SUM()
+Adds values
+
+ 6. GROUP BY
+Used to group data and apply aggregate functions
+
+ Skills Gained
+
+* Understanding database structures
+* Difference between flat files and relational databases
+* Understanding primary and foreign keys
+* Writing SQL queries using:
+
+  * SELECT
+  * WHERE
+  * ORDER BY
+  * LIMIT
+  * GROUP BY
+  * COUNT()
+  * SUM()
+* Filtering, sorting, and aggregating data
+
