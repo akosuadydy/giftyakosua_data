@@ -1,0 +1,88 @@
+Module 7: Intro to Structured Queries
+
+Overview: This module builds on relational database fundamentals and focuses on how to structure, relate, and manipulate data across multiple tables using SQL.
+How database schemas are designed, how keys define relationships, and how to combine and modify data efficiently using structured queries.
+
+
+Key Concepts
+Database Schema
+1. A database schema defines: Tables, Columns, Data types, Keys (Primary and Foreign), Relationships between tables
+2. Schemas help organize data efficiently and reduce redundancy.
+
+Primary Keys and Foreign Keys
+Primary Key (PK): Uniquely identifies each row in a table. Cannot contain duplicate or NULL values
+
+Foreign Key (FK): Links one table to another. References a primary key in another table
+These keys allow relational databases to connect related data.
+
+Database Relationships
+1. One-to-Many: One record in Table A relates to many records in Table B.
+2. Many-to-Many: Many records in Table A relate to many records in Table B.
+3. One-to-One: One record in Table A relates to one record in Table B.
+
+
+SQL JOIN Operations
+JOIN allows combining data from multiple tables.
+
+Example:
+
+SELECT patients.name, admissions.date
+FROM patients
+INNER JOIN admissions
+ON patients.patient_id = admissions.patient_id;
+
+Types of JOINs
+INNER JOIN: Returns only matching rows in both tables.
+
+LEFT JOIN: Returns all rows from the left table and matching rows from the right table.
+
+RIGHT JOIN: Returns all rows from the right table and matching rows from the left table.
+
+FULL OUTER JOIN: Returns all rows from both tables, with NULL where no match exists.
+
+NATURAL JOIN: Automatically joins tables using columns with the same name.
+
+SQL Data Manipulation Language (DML): Used to modify data in tables.
+
+Database Data Types
+Common data types include:
+
+Data Type	Description
+INT	Integer numbers
+VARCHAR	Variable-length text
+CHAR	Fixed-length text
+TEXT	Long text
+DECIMAL	Exact numeric values
+FLOAT	Floating-point numbers
+DATETIME	Date and time values
+Distributed Databases and NoSQL
+
+Relational databases are powerful but can struggle with extremely large or unstructured data.
+
+NoSQL databases provide:
+
+Flexible structure
+
+Better scalability
+
+Faster performance for large datasets
+
+Examples:
+
+MongoDB (Document database)
+
+Cassandra (Distributed database)
+
+DynamoDB (Key-value database)
+
+Skills Developed
+1. Designing relational database schemas
+2. Understanding and using database keys
+3. Writing SQL JOIN queries
+4. Manipulating data using SQL commands
+5. Understanding relational vs NoSQL databases
+6. Structuring complex queries across multiple tables
+
+
+
+This module builds the foundation for advanced SQL querying and data analysis.
