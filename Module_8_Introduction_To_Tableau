@@ -1,0 +1,53 @@
+Module 8: Using Tableau for Visualization and Creating a Dashboard
+
+Overview
+In this module, I learned how to use Tableau to visualize data and build interactive dashboards. 
+Tableau is a powerful data visualization tool that allows analysts to transform raw data into meaningful visual insights such as charts, graphs, and dashboards.
+
+This module focused on connecting data sources, creating visualizations, and combining those visualizations into dashboards to support data-driven decision making.
+
+
+Key Concepts
+Data Visualization: The graphical representation of data. It helps identify: Trends, Patterns, Outliers, Comparisons
+
+Visualizations make complex data easier to understand.
+
+Dimensions and Measures
+
+Dimensions: Qualitative data. Used to categorize data. Examples: Country, Movie Title, Continent
+
+Measures: Quantitative data. Numeric values that can be aggregated. Examples: Population, Revenue, Budget
+
+Tableau Workspace Components
+
+Data Pane: Displays available fields from the dataset
+
+Rows and Columns Shelves: Control the layout of the visualization
+
+Marks Card: Controls appearance, such as: Color, Size, Labels, Detail
+
+Creating Visualizations: Visualizations are created by dragging and dropping fields into Rows and Columns.
+
+Examples include: Bar charts, Line charts, Maps, Scatter plots. 
+
+Tableau automatically generates visuals based on selected data.
+
+Filters: Filters allow focusing on specific subsets of data.
+Examples: Filter by country, Filter by year, Filter by category. Filters improve analysis accuracy.
+
+Dashboards: A dashboard is a collection of multiple visualizations displayed together.
+Dashboards allow users to: View multiple insights at once, Compare data across charts, Interact with filters and visuals, Communicate findings effectively
+Dashboards are commonly used in business intelligence reporting.
+
+Skills Gained
+Data visualization
+Dashboard creation
+Data analysis using Tableau
+Visual storytelling
+Data filtering and aggregation
+Working with real datasets
+
+Tools Used
+Tableau
+CSV / Excel datasets
+
